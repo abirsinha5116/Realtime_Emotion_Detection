@@ -1,0 +1,10 @@
+names:
+- angry
+- sad
+- happy
+- fear
+- surprise
+nc: 5
+test: CK48_processed/test
+train: CK48_processed/train
+val: CK48_processed/val
